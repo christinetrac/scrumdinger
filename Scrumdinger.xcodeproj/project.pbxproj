@@ -18,6 +18,7 @@
 		CD03E7C627929167009BD7F8 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD03E7C527929167009BD7F8 /* TrailingIconLabelStyle.swift */; };
 		CD03E7D1279298F1009BD7F8 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD03E7D0279298F1009BD7F8 /* ScrumsView.swift */; };
 		CD03E7D92792B023009BD7F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CD03E7D82792B023009BD7F8 /* Assets.xcassets */; };
+		CDFE51682794C38300B98328 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDFE51672794C38300B98328 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		CD03E7C527929167009BD7F8 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		CD03E7D0279298F1009BD7F8 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		CD03E7D82792B023009BD7F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../Downloads/DisplayingDataInAList/Complete/Scrumdinger/Assets.xcassets; sourceTree = "<group>"; };
+		CDFE51672794C38300B98328 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				CD03E7C527929167009BD7F8 /* TrailingIconLabelStyle.swift */,
 				CD03E7BD27928DFC009BD7F8 /* CardView.swift */,
 				CD03E7D0279298F1009BD7F8 /* ScrumsView.swift */,
+				CDFE51672794C38300B98328 /* DetailView.swift */,
 				CD03E7D82792B023009BD7F8 /* Assets.xcassets */,
 				CD03E78A2790FC65009BD7F8 /* Info.plist */,
 				CD03E7872790FC65009BD7F8 /* Preview Content */,
@@ -283,6 +286,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CD03E7B927928C31009BD7F8 /* DailyScrum.swift in Sources */,
+				CDFE51682794C38300B98328 /* DetailView.swift in Sources */,
 				CD03E7C627929167009BD7F8 /* TrailingIconLabelStyle.swift in Sources */,
 				CD03E7B427912BB1009BD7F8 /* Theme.swift in Sources */,
 				CD03E7D1279298F1009BD7F8 /* ScrumsView.swift in Sources */,
